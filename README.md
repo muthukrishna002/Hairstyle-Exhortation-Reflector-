@@ -1,1 +1,1 @@
-# GlobalAIHubMLCourse
+# Hairstyle recommendation
